@@ -1,0 +1,18 @@
+{
+  "name": "A Sua Oficina",
+  "short_name": "A Sua Oficina",
+  "description": "Oficina Automóvel Multimarcas — Mecânica, Revisões, Diagnóstico, Chaparia e Pintura",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#ffffff",
+  "theme_color": "#0F172A",
+  "lang": "pt-PT",
+  "icons": [
+    {
+      "src": "/logo.svg",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "any maskable"
+    }
+  ]
+}
